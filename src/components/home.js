@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-<div className="jumbotron">
+<div className="jumbotron mt-3">
   <div className="container text-center">
     <h1>My Portfolio</h1>      
     <p>Some text that represents "Me"...</p>
